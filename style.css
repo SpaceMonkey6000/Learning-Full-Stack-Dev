@@ -6,3 +6,14 @@ body{
     border-style: dashed;
     border-color: rgb(187, 10, 10);
 }
+a{
+    background-color: pink;
+    font-size: larger;
+    color: brown;
+}
+p{
+    border-color: aquamarine;
+    border-width: thick;
+    border-style: dotted;
+    color:rgb(58, 0, 0);
+}
