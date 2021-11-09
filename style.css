@@ -19,4 +19,9 @@ p{
 }
 nav{
     background-color: grey;
+} 
+.navig{
+    color: aqua;
+    border-color: deeppink;
+    border-width:thick ;
 }
