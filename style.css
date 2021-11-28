@@ -6,10 +6,22 @@ body{
     border-style: dashed;
     border-color: rgb(187, 10, 10);
 }
-a{
+a:link{
     background-color: pink;
     font-size: larger;
-    color: brown;
+    color: yellow;
+}
+a:visited{
+    color: aqua;
+    background-color: bisque;
+}
+a:hover{
+    color:chartreuse;
+    background-color: coral;
+}
+a:active{
+    color: black;
+    background-color: brown;
 }
 p{
     border-color: aquamarine;
@@ -20,8 +32,8 @@ p{
 nav{
     background-color: grey;
 } 
-.navig{
+/* .navig{
     color: aqua;
     border-color: deeppink;
     border-width:thick ;
-}
+} */
